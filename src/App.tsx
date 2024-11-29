@@ -1,9 +1,7 @@
-import { IconLogo } from "./assets/iconLibrary.ts";
-
 const App = () => {
     return (
         <div>
-            <IconLogo />
+            <p>Your Project</p>
         </div>
     );
 };
